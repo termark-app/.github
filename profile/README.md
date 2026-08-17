@@ -1,0 +1,44 @@
+<div align="center">
+
+# Termark
+
+### A modern cross-platform SSH and SFTP client
+
+Manage servers, terminals, files, port forwarding, encrypted sync, and AI-assisted workflows across desktop and mobile.
+
+[Website](https://www.termark.app/) · [Documentation](https://docs.termark.app/) · [Download](https://www.termark.app/#downloads) · [Product facts](https://www.termark.app/product-facts/) · [Discussions](https://github.com/termark-app/termark/discussions)
+
+</div>
+
+## Built for practical server work
+
+Termark brings frequently used SSH workflows into one organized workspace:
+
+- **SSH terminals** with tabs, split panes, workspaces, and batch operations
+- **SFTP file management** alongside terminal sessions
+- **Port forwarding** and reusable server assets
+- **Cross-platform access** on Windows, macOS, Linux, iOS, and Android
+- **Encrypted sync** for supported application data
+- **AI assistance** with configurable Auto, Balanced, and Strict approval policies
+
+## Official repositories
+
+- [`termark`](https://github.com/termark-app/termark) — official product information, examples, discussions, and issue reporting
+- [`termark-document`](https://github.com/termark-app/termark-document) — Termark documentation and technical articles
+
+> Termark is commercial software. The public repository provides official product information and community resources; it does not contain the commercial client source code.
+
+## Learn more
+
+- [Product facts](https://www.termark.app/product-facts/) — maintained, evidence-linked product details
+- [Documentation](https://docs.termark.app/) — usage guides, changelogs, and technical articles
+- [AI design boundaries](https://docs.termark.app/blog/termark-ai-design) — execution modes and approval policies
+- [Privacy policy](https://www.termark.app/privacy)
+
+---
+
+<div align="center">
+
+**Termark — SSH work, organized.**
+
+</div>
