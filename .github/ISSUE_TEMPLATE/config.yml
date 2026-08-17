@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product questions, problems, and feature requests
+    url: https://github.com/termark-app/termark/discussions
+    about: Use Termark Discussions for public product support and feedback.
+  - name: Report a security vulnerability privately
+    url: https://github.com/termark-app/termark/security/advisories/new
+    about: Do not disclose suspected vulnerabilities publicly.
+  - name: Documentation
+    url: https://docs.termark.app/
+    about: Read official usage guides, changelogs, and technical articles.
