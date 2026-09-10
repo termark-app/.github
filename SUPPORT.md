@@ -2,7 +2,7 @@
 
 ## Product questions and reproducible problems
 
-Use [Termark Discussions](https://github.com/termark-app/termark/discussions) for product questions, feature requests, and reproducible problems. Before posting, check the [documentation](https://docs.termark.app/) and existing discussions.
+Use [Termark Discussions](https://github.com/termark-app/termark/discussions) for product questions, feature requests, and reproducible problems. Before posting, check the [documentation](https://www.termark.app/docs/) and existing discussions.
 
 When reporting a problem, include:
 

@@ -7,5 +7,5 @@ contact_links:
     url: https://github.com/termark-app/termark/security/advisories/new
     about: Do not disclose suspected vulnerabilities publicly.
   - name: Documentation
-    url: https://docs.termark.app/
+    url: https://www.termark.app/docs/
     about: Read official usage guides, changelogs, and technical articles.

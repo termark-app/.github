@@ -20,4 +20,4 @@ We will review valid reports and communicate through the private advisory. Respo
 
 ## Scope
 
-Supported release status is maintained in the [desktop changelog](https://docs.termark.app/changelog) and [mobile changelog](https://docs.termark.app/mobile-changelog). Reports about third-party services, unsupported versions, social engineering, or vulnerabilities that require already-compromised devices may be outside scope, but can still be submitted privately when uncertain.
+Supported release status is maintained in the [desktop changelog](https://www.termark.app/changelog) and [mobile changelog](https://www.termark.app/mobile-changelog). Reports about third-party services, unsupported versions, social engineering, or vulnerabilities that require already-compromised devices may be outside scope, but can still be submitted privately when uncertain.

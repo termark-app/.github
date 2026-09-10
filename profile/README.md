@@ -6,7 +6,7 @@
 
 Manage servers, terminals, files, port forwarding, encrypted sync, and AI-assisted workflows across desktop and mobile.
 
-[Website](https://www.termark.app/) · [Documentation](https://docs.termark.app/) · [Download](https://www.termark.app/#downloads) · [Product facts](https://www.termark.app/product-facts/) · [Discussions](https://github.com/termark-app/termark/discussions)
+[Website](https://www.termark.app/) · [Documentation](https://www.termark.app/docs/) · [Download](https://www.termark.app/#download) · [Product facts](https://www.termark.app/#features) · [Discussions](https://github.com/termark-app/termark/discussions)
 
 </div>
 
@@ -30,12 +30,12 @@ Termark brings frequently used SSH workflows into one organized workspace:
 
 ## Learn more
 
-- [Product facts](https://www.termark.app/product-facts/) — maintained, evidence-linked product details
-- [Documentation](https://docs.termark.app/) — usage guides, changelogs, and technical articles
-- [AI design boundaries](https://docs.termark.app/blog/termark-ai-design) — execution modes and approval policies
-- [Best SSH Clients in 2026 Compared](https://docs.termark.app/blog/best-ssh-clients-2026) — OpenSSH, Termius, WindTerm, Solar-PuTTY, and Termark
-- [How to Choose an SSH Client](https://docs.termark.app/blog/ssh-client-recommendation) — a practical selection checklist
-- [Can You SSH From a Phone?](https://docs.termark.app/blog/can-you-ssh-on-a-phone) — mobile SSH use cases and limits
+- [Product facts](https://www.termark.app/#features) — maintained, evidence-linked product details
+- [Documentation](https://www.termark.app/docs/) — usage guides, changelogs, and technical articles
+- [AI design boundaries](https://www.termark.app/blog/termark-ai-design) — execution modes and approval policies
+- [Best SSH Clients in 2026 Compared](https://www.termark.app/blog/best-ssh-clients-2026) — OpenSSH, Termius, WindTerm, Solar-PuTTY, and Termark
+- [How to Choose an SSH Client](https://www.termark.app/blog/ssh-client-recommendation) — a practical selection checklist
+- [Can You SSH From a Phone?](https://www.termark.app/blog/can-you-ssh-on-a-phone) — mobile SSH use cases and limits
 - [Privacy policy](https://www.termark.app/privacy)
 
 ---
