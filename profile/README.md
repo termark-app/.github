@@ -6,7 +6,7 @@
 
 Manage servers, terminals, files, port forwarding, encrypted sync, and AI-assisted workflows across desktop and mobile.
 
-[Website](https://www.termark.app/) · [Documentation](https://www.termark.app/docs/) · [Download](https://www.termark.app/#download) · [Product facts](https://www.termark.app/#features) · [Discussions](https://github.com/termark-app/termark/discussions)
+[Website](https://www.termark.app/) · [Documentation](https://www.termark.app/docs/) · [Download](https://www.termark.app/#download) · [Product facts](https://www.termark.app/#features) · [Discussions](https://github.com/termark-app/termark/discussions) · [Telegram](https://t.me/termark_app)
 
 </div>
 
@@ -27,6 +27,17 @@ Termark brings frequently used SSH workflows into one organized workspace:
 - [`termark-document`](https://github.com/termark-app/termark-document) — Termark documentation and technical articles
 
 > Termark is commercial software. The public repository provides official product information and community resources; it does not contain the commercial client source code.
+
+## Community
+
+- [Telegram](https://t.me/termark_app) — announcements and quick questions
+- WeChat group — scan the QR code below (the code is refreshed periodically; if it has expired, see https://www.termark.app/)
+
+<div align="center">
+
+<img src="images/wechat-group.jpg" alt="Termark WeChat group QR code" width="200">
+
+</div>
 
 ## Learn more
 
