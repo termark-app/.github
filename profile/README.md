@@ -45,8 +45,8 @@ Termark brings frequently used SSH workflows into one organized workspace:
 - [Documentation](https://www.termark.app/docs/) — usage guides, changelogs, and technical articles
 - [AI design boundaries](https://www.termark.app/blog/termark-ai-design) — execution modes and approval policies
 - [Best SSH Clients in 2026 Compared](https://www.termark.app/blog/best-ssh-clients-2026) — OpenSSH, Termius, WindTerm, Solar-PuTTY, and Termark
-- [How to Choose an SSH Client](https://www.termark.app/blog/ssh-client-recommendation) — a practical selection checklist
-- [Can You SSH From a Phone?](https://www.termark.app/blog/can-you-ssh-on-a-phone) — mobile SSH use cases and limits
+- [SSH tunnels through a jump host](https://www.termark.app/blog/ssh-tunnels-jump-host) — a practical walkthrough
+- [Termark on the App Store](https://apps.apple.com/cn/app/termark/id6792288519) — the iOS client, available now
 - [Privacy policy](https://www.termark.app/privacy)
 
 ---
