@@ -31,13 +31,7 @@ Termark brings frequently used SSH workflows into one organized workspace:
 ## Community
 
 - [Telegram](https://t.me/termark_app) — announcements and quick questions
-- WeChat group — scan the QR code below (the code is refreshed periodically; if it has expired, see https://www.termark.app/)
-
-<div align="center">
-
-<img src="images/wechat-group.jpg" alt="Termark WeChat group QR code" width="200">
-
-</div>
+- WeChat group — see the [official website](https://www.termark.app/); the QR code changes periodically and is not maintained in this repository
 
 ## Learn more
 
